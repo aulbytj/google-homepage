@@ -54,10 +54,10 @@ div.nav-links img {
   padding-top: 109px;
 }
 
-.main img {
+.logo img {
   position: relative;
-  height: 25%;
-  width: 25%;
+  height: 92px;
+  width: 222px;
 }
 
 .search {
@@ -68,7 +68,7 @@ div.nav-links img {
   width: 24px;
   vertical-align: middle;
   position: relative;
-  margin-top: -70px;
+  margin-top: -67px;
   left: 210px;
 }
 
